@@ -1,0 +1,38 @@
+{
+  "brandName": "Resolution Development",
+  "domain": "resolutiondevelopment.com",
+  "industry": "IT/Software",
+  "domainRegistered": "2002-09-25",
+  "establishedYear": "2001",
+  "primaryContact": "info@resolutiondevelopment.com",
+  "businessType": "Corporate",
+  "targetAudience": "B2B",
+  "targetCountries": ["US", "Global"],
+  "brandColors": {
+    "primary": "#2563eb",
+    "secondary": "#1e40af",
+    "accent": "#3b82f6",
+    "dark": "#1e293b",
+    "light": "#f1f5f9"
+  },
+  "keyServices": [
+    "Custom Software Development",
+    "Web Application Development",
+    "Mobile App Development",
+    "Cloud Solutions & DevOps",
+    "IT Consulting & Strategy",
+    "Data Analytics & Business Intelligence"
+  ],
+  "seoKeywords": [
+    "software development",
+    "web development",
+    "custom software solutions",
+    "IT consulting",
+    "enterprise software",
+    "cloud solutions",
+    "mobile app development"
+  ],
+  "companySize": "Medium",
+  "description": "Resolution Development is a leading IT/Software company providing innovative technology solutions since 2001. We specialize in custom software development, web applications, mobile apps, and cloud solutions for businesses worldwide."
+}
+
