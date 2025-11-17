@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+  <channel>
+    <title><![CDATA[Resolution Development - Blog Feed]]></title>
+    <link>https://resolutiondevelopment.com</link>
+    <description><![CDATA[Resolution Development is a leading IT/Software company providing innovative technology solutions since 2001. We specialize in custom software development, web applications, mobile apps, and cloud solutions for businesses worldwide.]]></description>
+    <language>en-US</language>
+    <lastBuildDate>2025-11-17T08:32:21.300Z</lastBuildDate>
+    <pubDate>2025-11-17T08:32:21.300Z</pubDate>
+    <ttl>60</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <atom:link href="https://resolutiondevelopment.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://resolutiondevelopment.com/assets/logo/RDLogo-02.png</url>
+      <title>Resolution Development</title>
+      <link>https://resolutiondevelopment.com</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <copyright>© 2025 Resolution Development. All rights reserved.</copyright>
+    <managingEditor>info@resolutiondevelopment.com (Resolution Development)</managingEditor>
+    <webMaster>info@resolutiondevelopment.com (Resolution Development)</webMaster>
+    <category>Technology</category>
+    <category>Software Development</category>
+    <category>IT Services</category>
+    
+    <item>
+      <title><![CDATA[The Future of Cloud Computing in 2025]]></title>
+      <link>https://resolutiondevelopment.com/blog/the-future-of-cloud-computing-in-2025</link>
+      <description><![CDATA[Exploring the latest trends and innovations in cloud computing technology.]]></description>
+      <pubDate>2025-11-10T08:32:21.300Z</pubDate>
+      <guid isPermaLink="true">https://resolutiondevelopment.com/blog/the-future-of-cloud-computing-in-2025</guid>
+      <category>Technology</category>
+    </item>
+  
+    <item>
+      <title><![CDATA[Best Practices for React Performance Optimization]]></title>
+      <link>https://resolutiondevelopment.com/blog/best-practices-for-react-performance-optimization</link>
+      <description><![CDATA[Learn how to optimize React applications for better performance and user experience.]]></description>
+      <pubDate>2025-11-10T08:32:21.300Z</pubDate>
+      <guid isPermaLink="true">https://resolutiondevelopment.com/blog/best-practices-for-react-performance-optimization</guid>
+      <category>Technology</category>
+    </item>
+  
+    <item>
+      <title><![CDATA[Mobile-First Design: Why It Matters]]></title>
+      <link>https://resolutiondevelopment.com/blog/mobile-first-design-why-it-matters</link>
+      <description><![CDATA[Understanding the importance of mobile-first design in modern web development.]]></description>
+      <pubDate>2025-11-10T08:32:21.300Z</pubDate>
+      <guid isPermaLink="true">https://resolutiondevelopment.com/blog/mobile-first-design-why-it-matters</guid>
+      <category>Technology</category>
+    </item>
+  
+  </channel>
+</rss>

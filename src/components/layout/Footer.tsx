@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { COMPANY, FOOTER_LINKS, NAVIGATION } from '@/utils/constants';
-import { FaEnvelope, FaFacebook, FaTwitter, FaInstagram } from 'react-icons/fa';
+import { FaEnvelope, FaFacebook, FaTwitter, FaInstagram, FaPhone, FaMapMarkerAlt } from 'react-icons/fa';
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -29,17 +29,29 @@ export default function Footer() {
             </p>
             
             {/* Contact Details */}
-            <div className="mb-4">
+            <div className="mb-4 space-y-3">
               <div className="flex items-center bg-[#252833] rounded-lg px-3 py-2.5">
                 <FaEnvelope className="text-teal-400 mr-3 flex-shrink-0" size={18} />
                 <a href={`mailto:${COMPANY.primaryContact}`} className="text-sm text-gray-300 hover:text-white transition-colors">
                   {COMPANY.primaryContact}
                 </a>
               </div>
+              <div className="flex items-center bg-[#252833] rounded-lg px-3 py-2.5">
+                <FaPhone className="text-teal-400 mr-3 flex-shrink-0" size={18} />
+                <a href="tel:9998275582" className="text-sm text-gray-300 hover:text-white transition-colors">
+                  9998275582
+                </a>
+              </div>
+              <div className="flex items-start bg-[#252833] rounded-lg px-3 py-2.5">
+                <FaMapMarkerAlt className="text-teal-400 mr-3 flex-shrink-0 mt-0.5" size={18} />
+                <address className="text-sm text-gray-300 not-italic leading-relaxed">
+                  sun gravitas, 837, Rajmani Society, Shyamal, Ahmedabad, Gujarat 380015
+                </address>
+              </div>
             </div>
 
             {/* Social Media */}
-            <div className="flex items-center space-x-3">
+            <div className="hidden flex items-center space-x-3">
               <a 
                 href={COMPANY.socialMedia?.facebook || `https://www.facebook.com/${COMPANY.brandName.replace(/\s+/g, '')}`} 
                 target="_blank" 

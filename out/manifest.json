@@ -1,0 +1,28 @@
+{
+  "name": "Resolution Development - IT Solutions & Software Development",
+  "short_name": "Resolution Dev",
+  "description": "Leading IT/Software company providing innovative technology solutions since 2001. Custom software development, web applications, mobile apps, and cloud solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/logo/RDLogo-02.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/logo/RDLogo-02.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "technology"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
+
